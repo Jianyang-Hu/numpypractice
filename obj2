@@ -1,0 +1,8 @@
+obj = ""
+{"name":"Wes",
+  "place_lived":["United States","Spain","Germany"],
+ "pet":null
+ "siblings":[{"name":"Scott","age":25,"pet":"Zuoko"},
+{"name":"Katie","age":33,"pet":"Cisco"}]
+}
+"""
